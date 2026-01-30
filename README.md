@@ -2,7 +2,7 @@
 
 ### 사진을 누르시면 포트폴리오가 열립니다.
 
-<a href="./김영만_포트폴리오_pdf.pdf">
+<a href=""https://github.com/sksn12/portfolio/raw/main/portfolio/김영만_포트폴리오_pdf.pdf"">
   <img
     width="1545"
     height="864"
