@@ -1,6 +1,6 @@
 ## 📄 My Portfolio
 
-### 사진을 누르시면 포트폴리오가 열립니다.
+### 사진을 누르시면 포트폴리오가 다운로드 됩니다.
 
 <a href="https://github.com/sksn12/portfolio/raw/main/김영만_포트폴리오_pdf.pdf">
   <img
